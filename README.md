@@ -22,11 +22,11 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ![239796837-13d30585-0c48-4b29-be60-57aa39e77fbf](https://github.com/user-attachments/assets/cd65a980-4b10-427d-b816-6a4559c2ec4b)
 
+# Developed by : BALA SARAVANAN K
+# Register No : 212224230031
+
 ## Program
 ```
-DEVEOPED BY : PREETHI D
-REG NO: 212224040250
-
 import math
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time=float(input("Enter the mean  inter service time of Lathe Machine (in secs) :  "))
